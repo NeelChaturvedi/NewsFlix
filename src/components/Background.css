@@ -1,0 +1,10 @@
+/* Background.css */
+.background-container {
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    
+  }
+  

@@ -1,0 +1,38 @@
+/* Style for the container */
+.container {
+    text-align: center;
+  }
+  
+  /* Style for the accordion */
+  .accordion {
+    width: 70%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  /* Style for accordion items */
+  .accordion-item {
+    /* Add your styles here */
+  }
+  
+  /* Style for accordion headers */
+  .accordion-header {
+    /* Add your styles here */
+  }
+  
+  /* Style for accordion buttons */
+  .accordion-button {
+    /* Add your styles here */
+  }
+  
+  /* Style for accordion bodies */
+  .accordion-body {
+    /* Add your styles here */
+  }
+  
+  /* Custom styles for the collapsed state of accordion buttons */
+  .accordion-button.collapsed {
+    /* Add your styles here */
+  }
+  
